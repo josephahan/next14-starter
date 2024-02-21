@@ -1,3 +1,5 @@
+//below code is used to create alias for the path, this means when we want to use the source path when importing a file, we can use @ instead of the full path
+
 {
   "compilerOptions": {
     "paths": {
