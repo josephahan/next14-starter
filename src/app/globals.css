@@ -1,0 +1,10 @@
+.container {
+    background-color: cyan;
+    width: 1536px;
+    margin: auto;
+    padding: 50px;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
